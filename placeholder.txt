@@ -1,0 +1,2 @@
+// Placeholder icon file for PWA
+// This would be replaced with actual icon files in a production environment

@@ -1,0 +1,4 @@
+selenium>=4.20
+# Uncomment the following line if you intend to run on Windows with Excel installed
+# pywin32>=306
+webdriver-manager>=4.0
